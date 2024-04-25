@@ -25,3 +25,6 @@
 * [The Rust Programming Language](https://doc.rust-lang.org/book/)
 ### Cursos
 ### Cookbooks
+
+## Tools
+* [act](https://github.com/nektos/act) Run your GitHub Actions locally! 
